@@ -5,8 +5,8 @@ StudyNotion is a comprehensive ed-tech platform built with the MERN stack (Mongo
 
 ## 🌟 Live Demo
 
-- Frontend: [https://study-notion-eight-smoky.vercel.app](https://study-notion-eight-smoky.vercel.app)
-- Backend: [https://studynotion-ibbd.onrender.com](https://studynotion-ibbd.onrender.com)
+- Frontend: [https://study-notion-five-sepia.vercel.app/](https://study-notion-five-sepia.vercel.app/)
+- Backend: [https://studynotion-ibbd.onrender.com](https://studynotion-no5f.onrender.com)
 
 ## 🛠️ Technology Stack
 
